@@ -1,0 +1,11 @@
+BODY{
+    font-style:italic;
+    background: color aquablue;
+  }
+  h1,h2,H3{
+      color:yellow;
+  }
+  HR{
+   HR size: height: 10px;
+  }
+  
